@@ -1,0 +1,17 @@
+{
+  "name": "wangsong/test",
+  "type": "library",
+  "authors": [
+    {
+      "name": "王颂",
+      "email": "wangsong@wudi360.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ws\\": "src/"
+    }
+  }
+}
